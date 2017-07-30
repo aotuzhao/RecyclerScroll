@@ -1,0 +1,3 @@
+# RecyclerScroll
+RecyclerView滚动的Demo
+ 帮助理解RecyclerView滑动的过程和其中滑动监听判断
